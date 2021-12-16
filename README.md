@@ -1,2 +1,2 @@
 # new-repository
-Ini masih buat nyoba
+Project akhir pemrograman dasar UB 2021
